@@ -18,7 +18,15 @@ end
 
 
 def take_a_number(katz_deli, new_person)
+  
   katz_deli << new_person
   line_position = katz_deli.length
   puts "Welcome, #{new_person}. You are number #{line_position} in line."
+end
+
+
+
+
+
+def now_serving()
 end
