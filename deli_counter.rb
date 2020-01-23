@@ -18,5 +18,5 @@ end
 
 
 def take_a_number(katz_deli, new_person)
-  puts "Welcome"
+  puts "Welcome, #{new_person}, you are the"
 end
