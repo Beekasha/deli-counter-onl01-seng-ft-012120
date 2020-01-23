@@ -18,8 +18,6 @@ end
 
 
 def take_a_number(katz_deli, new_person)
-  #katz_deli.each.with_index do |person, idx|
-    
-  #end
-  puts "Welcome, #{new_person}, you are number #{katz_deli.length}"
+  line_position = katz_deli.length + 1
+  puts "Welcome, #{new_person}, you are number #{line_position} in line."
 end
