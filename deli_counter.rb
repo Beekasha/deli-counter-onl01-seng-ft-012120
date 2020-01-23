@@ -12,3 +12,9 @@ numbered_people = []
     
   end
 end
+
+
+
+
+
+def take_a_number(katz_deli, )
