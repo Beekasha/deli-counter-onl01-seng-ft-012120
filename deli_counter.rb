@@ -18,5 +18,8 @@ end
 
 
 def take_a_number(katz_deli, new_person)
-  puts "Welcome, #{new_person}, you are the"
+  #katz_deli.each.with_index do |person, idx|
+    
+  #end
+  puts "Welcome, #{new_person}, you are number #{katz_deli.length}"
 end
